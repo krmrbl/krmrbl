@@ -24,14 +24,14 @@
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <p>
 
-<h2><samp>💻 BACKEND TECHNOLOGIES</samp></h2>
+<h2><samp>BACKEND TECHNOLOGIES</samp></h2>
 
 <p style="padding: 0px 20px">
   <img src="https://img.shields.io/badge/Ruby%20-C21325?logo=ruby&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 <p>
 
-<h2><samp>🔧 DEVELOPMENT TOOLS</samp></h2>
+<h2><samp>DEVELOPMENT TOOLS</samp></h2>
 
 <p style="padding: 0px 20px">
   <img src="https://img.shields.io/badge/Git%20-F05032?logo=git&logoColor=white&style=for-the-badge" />
@@ -39,7 +39,7 @@
 <p>
 
 
-<h2><samp>🎨 DESIGN</samp></h2>
+<h2><samp>DESIGN</samp></h2>
 
 <p style="padding: 0px 20px">
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" />
